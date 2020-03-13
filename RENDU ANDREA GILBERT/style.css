@@ -1,0 +1,93 @@
+.jumbotron{
+    /* Choisis la hauteur ici */
+    height: 300px;
+  
+    /* Tu lui donnes une image de background */
+    background-image: url("img/meditation_1.jpg");
+  
+    /* Centre l'image et la met bien sur tous les écrans */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 70%;
+}
+
+.nav-item a{
+    color: grey !important;
+}
+
+.nav-item a:hover{
+    color: lavenderblush !important;
+}
+
+.navbar-brand{
+    font-family: 'DM Serif Display', serif;
+    color: rgb(255, 202, 219) !important;
+    font-size: 25px !important;
+}
+
+.blocstyle {
+    background-color:lavenderblush !important;
+    background-size: cover;
+    margin-left: -30px;
+}
+
+.txtbloc {
+    margin-top: 100px;
+}
+
+#imggauche {
+    background-image: url("img/coffeeshop.jpg");
+    height: 600px;
+    width: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 80%;
+    margin-left: -15px;
+}
+
+.bloctxtrelou {
+    padding-left: 70px ;
+    padding-right: 50px;
+}
+
+.fa-spa {
+    color: rgb(255, 202, 219);
+}
+
+.fa-praying-hands {
+    color: rgb(255, 202, 219);
+}
+
+.fa-yin-yang {
+    color: rgb(255, 202, 219);
+}
+
+.fa-spa:hover {
+    color: rgb(128, 128, 128);
+}
+
+.fa-praying-hands:hover {
+    color: rgb(128, 128, 128);
+}
+
+.fa-yin-yang:hover {
+    color: rgb(128, 128, 128);
+}
+
+.fa-instagram:hover {
+    color: rgb(255, 202, 219);
+}
+
+.fa-facebook-f:hover {
+    color: rgb(255, 202, 219);
+}
+
+.fa-pinterest:hover {
+    color: rgb(255, 202, 219);
+}
+
+h3 {
+    font-family: 'DM Serif Display', serif;
+}
